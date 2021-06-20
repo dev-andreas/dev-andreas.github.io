@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/loesungen/geschliffen_oder_gehohnt", {data:[{}],fetch:{},mutations:[]});

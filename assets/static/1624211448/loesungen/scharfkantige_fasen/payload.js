@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/loesungen/scharfkantige_fasen", {data:[{}],fetch:{},mutations:[]});

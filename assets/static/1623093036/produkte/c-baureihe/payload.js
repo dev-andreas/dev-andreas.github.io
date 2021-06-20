@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/produkte/c-baureihe", {data:[{}],fetch:{},mutations:[]});

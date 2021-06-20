@@ -33,7 +33,6 @@ function loadPosts() {
 
 
 
-
     let linkedInContainer = document.querySelector('#linkedin_posts');
     let linkedInPost = (postId) => `<iframe
     src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:${postId}"
