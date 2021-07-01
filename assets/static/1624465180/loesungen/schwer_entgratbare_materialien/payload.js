@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/loesungen/schwer_entgratbare_materialien", {data:[{}],fetch:{},mutations:[]});

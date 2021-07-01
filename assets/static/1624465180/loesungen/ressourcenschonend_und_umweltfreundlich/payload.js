@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/loesungen/ressourcenschonend_und_umweltfreundlich", {data:[{}],fetch:{},mutations:[]});

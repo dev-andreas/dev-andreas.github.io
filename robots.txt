@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://ultratec-anlagen.de/sitemap.xml

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/loesungen/validierbarer_prozess", {data:[{}],fetch:{},mutations:[]});
