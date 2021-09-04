@@ -1,0 +1,10 @@
+{
+  "name": "PWA test",
+  "short_name": "PWA",
+  "description": "Fantastic PWA app",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
