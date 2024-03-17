@@ -5,7 +5,7 @@
    viewBox="0 0 130.68608 118.82534"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="mail.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="354.9676"
-     inkscape:cy="144.60334"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="123.74369"
+     inkscape:cy="139.30004"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -73,16 +73,16 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path868"
-       style="fill:#4e4b44;stroke:#4e4b44;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       d="M 0.66145965,39.430703 V 118.16388 H 130.02462 V 39.430703 l -64.681836,38.76921 z" />
-    <path
        id="path877"
        style="fill:#fcf9f1;fill-opacity:1;stroke:#4e4b44;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 65.342774,0.66148901 0.66146775,39.430703 65.342774,78.199913 130.02461,39.430703 Z" />
     <path
-       style="fill:none;stroke:#f6f3eb;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0.66145975,118.16387 65.342784,78.199903 130.02461,118.16387"
+       id="rect1"
+       style="fill:#4e4b44;stroke:#4e4b44;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 0.46302083 39.416199 L 0.46302083 46.305184 L 0.46302083 85.512093 L 0.46302083 111.4733 C 0.46302083 115.28971 3.5355908 118.36228 7.352006 118.36228 L 123.33407 118.36228 C 127.15049 118.36228 130.22306 115.28971 130.22306 111.4733 L 130.22306 85.512093 L 130.22306 46.305184 L 130.22306 39.416199 L 130.00033 39.416199 L 130.02462 39.430668 L 65.342782 78.199878 L 0.66145833 39.430668 L 0.68574626 39.416199 L 0.46302083 39.416199 z " />
+    <path
+       style="fill:none;stroke:#f6f3eb;stroke-width:0.383066;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.9119265,116.76729 65.342611,78.193906 127.77378,116.76729"
        id="path875" />
   </g>
 </svg>
